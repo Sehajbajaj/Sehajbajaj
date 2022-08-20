@@ -5,7 +5,7 @@
 I am a second-year engineering student at Indraprastha University (New Delhi), pursuing a bachelor’s degree in Computer Science.
 - 🔭 I’m currently working on my Problem Solving Skills.
 - 🌱 I’m currently learning **Data Structures & Algorithms, MERN Stack**.
-- 🧐 I'm currently looking for open-source projects to contribute for.
+- 👯 I’m looking to collaborate on **Open source projects**.
 
 ### 👨‍💻 Tech & Tools:
 
