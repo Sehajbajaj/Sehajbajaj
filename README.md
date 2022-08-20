@@ -33,3 +33,7 @@ I am a second-year engineering student at Indraprastha University (New Delhi), p
 ### 📈 Github Stats:
 
 <p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sehajbajaj&show_icons=true&count_private=true&theme=omni" />
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sehajbajaj&theme=dracula"/></a>
+</p>
