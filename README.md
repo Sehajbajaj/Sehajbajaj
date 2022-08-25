@@ -1,4 +1,4 @@
-## Hey 👋, I'm Sehaj!
+## Hey 👋, I'm <a href="https://sehajbajaj-portfolio.vercel.app/">Sehaj!</a>
 
 ### 🙋‍♂️About Me:
 
