@@ -34,8 +34,8 @@ I am a third-year engineering student at Indraprastha University (New Delhi), pu
 
 <!--<p align ="center">&nbsp;<img align="center" src="![sehajbajaj's Stats](https://github-readme-stats.vercel.app/api?username=sehajbajaj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" />-->
 
-<p align ="center">&nbsp;<img align="center" src="![sehajbajaj's Stats](https://github-readme-stats.vercel.app/api?username=sehajbajaj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" />
+
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sehajbajaj&theme=dracula"/></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sehajbajaj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)"/></a>
 </p>
